@@ -1,0 +1,23 @@
+# Java & Maven
+/target/
+/bin/
+/*.log
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE files
+/.idea/
+/.vscode/
+/*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Application secrets/config
+src/main/resources/application.properties
+
+# Others
+*.env
